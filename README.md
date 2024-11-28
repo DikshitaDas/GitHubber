@@ -69,14 +69,6 @@ GitHubber integrates **MERN**, **TailwindCSS**, and the **GitHub API** to offer 
 
 ---
 
-## 🚀 **Deploy Like a Pro**  
-
-- **Frontend**: Deployed on platforms like Netlify or Vercel  
-- **Backend**: Hosted on services like Heroku or Render  
-
-Detailed deployment guide coming soon!  
-
----
 
 ## 📜 **License**  
 
