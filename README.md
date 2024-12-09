@@ -1,5 +1,5 @@
 # 🌟 GitHubber🌟  
-
+ 
 ### 🛠️ **A MERN-based Web App to Explore GitHub User Profiles and Repositories**  
 
 GitHubber integrates **MERN**, **TailwindCSS**, and the **GitHub API** to offer a seamless experience for viewing and filtering GitHub user data. It simplifies authentication with **Passport.js** and takes error handling seriously, making it a must-try app for developers!  
