@@ -1,4 +1,4 @@
-# 🌟 GitHubber🌟  
+# 🌟 GitHubber🌟   
   
 ### 🛠️ **A MERN-based Web App to Explore GitHub User Profiles and Repositories**  
 
